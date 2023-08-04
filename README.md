@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gm-bat
-- 👀 I’m interested in web-dev,software dev.
+- 👀 I’m interested in web-dev,software dev, game dev.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any pyhton related project
 - 📫 How to reach me gabrielkofi518@gmail.com
